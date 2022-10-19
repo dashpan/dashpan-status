@@ -1,24 +1,32 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: dashpan # Your GitHub organization or username, where this repository lives
+repo: dashpan-status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: API (Produção)
+    url: https://api-dash.agenciapan.com
+  - name: API (Homologação)
+    url: https://api-dashteste.agenciapan.com
+  - name: API (MAHAV)
+    url: https://api-mahav.dashpan.com
+  - name: API (PowerBee)
+    url: https://api-powerbee.dashpan.com
+  - name: App (Produção)
+    url: https://dash.agenciapan.com
+  - name: App (Homologação)
+    url: https://dashteste.agenciapan.com
+  - name: App (MAHAV)
+    url: https://mahav.dashpan.com
+  - name: App (Powerbee)
+    url: https://powerbee.dashpan.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # cname: demo.upptime.js.org
+  baseUrl: /dashpan-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Dashpan
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
