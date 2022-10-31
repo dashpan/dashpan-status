@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-dash.agenciapan.com.ico",
     "slug": "api-producao",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "96.08%",
+    "uptimeDay": "53.48%",
+    "uptimeWeek": "93.35%",
+    "uptimeMonth": "96.08%",
+    "uptimeYear": "96.08%",
     "time": 499,
-    "timeDay": 495,
+    "timeDay": 0,
     "timeWeek": 487,
     "timeMonth": 499,
     "timeYear": 499,
     "dailyMinutesDown": {
-      "2022-10-30": 2
+      "2022-10-31": 51,
+      "2022-10-30": 618
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-dashteste.agenciapan.com.ico",
     "slug": "api-homologacao",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "96.08%",
+    "uptimeDay": "53.52%",
+    "uptimeWeek": "93.36%",
+    "uptimeMonth": "96.08%",
+    "uptimeYear": "96.08%",
     "time": 445,
-    "timeDay": 486,
-    "timeWeek": 451,
+    "timeDay": 0,
+    "timeWeek": 450,
     "timeMonth": 445,
     "timeYear": 445,
     "dailyMinutesDown": {
-      "2022-10-30": 1
+      "2022-10-31": 51,
+      "2022-10-30": 618
     }
   },
   {
@@ -50,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 796,
-    "timeDay": 749,
-    "timeWeek": 798,
-    "timeMonth": 796,
-    "timeYear": 796,
+    "time": 788,
+    "timeDay": 672,
+    "timeWeek": 784,
+    "timeMonth": 788,
+    "timeYear": 788,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 821,
-    "timeDay": 730,
-    "timeWeek": 801,
-    "timeMonth": 821,
-    "timeYear": 821,
+    "time": 816,
+    "timeDay": 753,
+    "timeWeek": 788,
+    "timeMonth": 816,
+    "timeYear": 816,
     "dailyMinutesDown": {}
   },
   {
@@ -81,18 +83,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dash.agenciapan.com.ico",
     "slug": "app-producao",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "96.09%",
+    "uptimeDay": "53.56%",
+    "uptimeWeek": "93.37%",
+    "uptimeMonth": "96.09%",
+    "uptimeYear": "96.09%",
     "time": 159,
-    "timeDay": 195,
-    "timeWeek": 141,
+    "timeDay": 0,
+    "timeWeek": 135,
     "timeMonth": 159,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2022-10-30": 1
+      "2022-10-31": 51,
+      "2022-10-30": 617
     }
   },
   {
@@ -101,18 +104,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dashteste.agenciapan.com.ico",
     "slug": "app-homologacao",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "96.09%",
+    "uptimeDay": "53.60%",
+    "uptimeWeek": "93.37%",
+    "uptimeMonth": "96.09%",
+    "uptimeYear": "96.09%",
     "time": 182,
-    "timeDay": 182,
-    "timeWeek": 185,
+    "timeDay": 0,
+    "timeWeek": 186,
     "timeMonth": 182,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2022-10-30": 0
+      "2022-10-31": 51,
+      "2022-10-30": 617
     }
   },
   {
@@ -126,11 +130,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 486,
-    "timeDay": 420,
-    "timeWeek": 473,
-    "timeMonth": 486,
-    "timeYear": 486,
+    "time": 480,
+    "timeDay": 394,
+    "timeWeek": 454,
+    "timeMonth": 480,
+    "timeYear": 480,
     "dailyMinutesDown": {}
   },
   {
@@ -144,11 +148,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 150,
-    "timeDay": 181,
-    "timeWeek": 129,
-    "timeMonth": 150,
-    "timeYear": 150,
+    "time": 156,
+    "timeDay": 248,
+    "timeWeek": 143,
+    "timeMonth": 156,
+    "timeYear": 156,
     "dailyMinutesDown": {}
   }
 ]
