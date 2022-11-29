@@ -4,19 +4,19 @@ repo: dashpan.github.io # The name of this repository
 
 sites:
   - name: API (Produção)
-    url: https://api-dash.agenciapan.com
+    url: https://api-pan.dashpan.com/status
   - name: API (Homologação)
-    url: https://api-dashteste.agenciapan.com
-  - name: API (MAHAV)
-    url: https://api-mahav.dashpan.com
+    url: https://api-teste.dashpan.com/status
+  - name: API (BOWE)
+    url: https://api-bowe.dashpan.com/status
   - name: API (PowerBee)
-    url: https://api-powerbee.dashpan.com
+    url: https://api-powerbee.dashpan.com/status
   - name: App (Produção)
-    url: https://dash.agenciapan.com
+    url: https://pan.dashpan.com
   - name: App (Homologação)
-    url: https://dashteste.agenciapan.com
-  - name: App (MAHAV)
-    url: https://mahav.dashpan.com
+    url: https://teste.dashpan.com
+  - name: App (BOWE)
+    url: https://bowe.dashpan.com
   - name: App (Powerbee)
     url: https://powerbee.dashpan.com
 
@@ -28,7 +28,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Dashpan
   introTitle:
-  introMessage: 
+  introMessage:
   navbar:
     - title: Status
       href: /
